@@ -11,6 +11,8 @@ int main()
     double total;
     
     printf("Compound Interest Calculator\n");
+    printf("Enter the Principal Amount (p): ");
+    scanf("%lf",&principal);
     
     
 
