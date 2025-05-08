@@ -13,9 +13,11 @@ int main()
     printf("Compound Interest Calculator\n");
     printf("Enter the Principal Amount (p): ");
     scanf("%lf",&principal);
-    printf("Enter the interest rate (r): ");
+    printf("Enter the interest rate % (r): ");
     scanf("%f",&rate);
-    
+    rate = rate / 100;
+
+
     
 
     return 0;
