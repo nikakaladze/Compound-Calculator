@@ -4,7 +4,14 @@
 
 int main()
 {
+    double principal;
+    double rate;
+    double years;
+    int timeCompounded;
+    double total;
     
+    
+
     return 0;
 
 
