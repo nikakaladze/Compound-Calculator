@@ -10,6 +10,8 @@ int main()
     int timeCompounded;
     double total;
     
+    printf("Compound Interest Calculator\n");
+    
     
 
     return 0;
